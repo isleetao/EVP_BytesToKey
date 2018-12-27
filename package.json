@@ -1,0 +1,15 @@
+{
+  "name": "@types/evp_bytestokey",
+  "version": "1.0.0",
+  "description": "TypeScript definitions for evp_bytestokey",
+  "main": "",
+  "types": "index",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isleetao/EVP_BytesToKey.git"
+  },
+  "author": "isleetao",
+  "license": "MIT",
+  "typeScriptVersion": "2.8"
+}
